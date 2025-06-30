@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Desktop Voice Assistant",
+    "description": "A voice-controlled desktop assistant built using Django and OpenAI Whisper model, enabling hands-free control over basic desktop functions like launching apps and reading notifications.",
+    "technologies": ["Django","Whisper","Python","TTS","HTML","CSS"],
+    "github": "https://github.com/Ignatius-Nobel/Main-Project-Desktop-assistant-for-paralyzed"
+  },
+  {
+    "title": "HR Automation Bot",
+    "description": "A web application that simulates common HR operations such as answering queries, manage payrolls and leave approval using AI.",
+    "technologies": ["Streamlit","Python","OCR","Langchain"],
+    "github": "https://github.com/Ignatius-Nobel/Project-HR-Bot"
+  },
+  {
+    "title": "Ecommerce Web App",
+    "description": "A Fully-featured shopping platform with Django and React, supporting user authentication, cart, and product management.",
+    "technologies": ["Django","Javascript","HTML","CSS"],
+    "github": "https://github.com/Ignatius-Nobel/Django_Project-Ecommerce-Website"
+  },
+  {
+    "title": "Live Desktop Transcription",
+    "description": "A real-time audio transcription application leveraging WebRTC and open-source speech-to-text STT models.",
+    "technologies": ["Python","React","FastAPI","FastRTC","Tailwind"],
+    "github": "https://github.com/Ignatius-Nobel/Penguin---Desktop-Audio-Transcriber"
+  }
+]
