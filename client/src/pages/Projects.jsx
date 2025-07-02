@@ -14,7 +14,7 @@ export default function Projects() {
   return (
     <main className="min-h-screen font-minecraft">
       <section className="text-white flex flex-col w-11/12 mx-auto mt-20">
-        <div className="text-3xl 2xl:text-5xl mt-10">Projects</div>
+        <div className="text-3xl 2xl:text-5xl mt-10 text-center">Projects</div>
         <ul className="flex flex-col gap-10 mt-10">
           {projects.map((project, idx) => 
             <li className="flex flex-col gap-3 text-sm w-4/5" key={idx}>
