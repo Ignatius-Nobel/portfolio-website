@@ -23,7 +23,7 @@ export default function Contact() {
     e.preventDefault();
     console.log(enquiry);
 
-    fetch(`${import.meta.env.VITE_API_URL}`, {
+    fetch(`${import.meta.env.VITE_API_URL}/`, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
