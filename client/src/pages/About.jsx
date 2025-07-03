@@ -31,7 +31,7 @@ export default function About() {
           <ul className="mt-4 flex flex-col gap-4">
             <li>
               <div className="text-sm font-bold">
-                Bachelors Degree in Computer Science
+                B.Tech in Computer Science and Engineering
               </div>
               <div className="italic">
                 Vidya Academy of Science and Technology - 2024
